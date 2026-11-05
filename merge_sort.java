@@ -21,7 +21,7 @@ public class merge_sort
                 
         }
 
-        if(i==a.length)
+        if(i==a.length)  // if one array finishes other may contains leftover elements  
         {
             while(j<b.length)
             {
@@ -72,7 +72,7 @@ public class merge_sort
 }
 
 // timecomplexity  = O(NlogN)
-// Spacecomplexity = O(NlogN)
+// Spacecomplexity = O(N)
 
 
 // Merge Sort is stable sort
