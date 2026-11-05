@@ -57,3 +57,9 @@ public class quicksort {
 
 
 // Quick Sort is Unstable While Merge sort is stable 
+
+// Time complexity in best case and Average case is : O(NlogN)
+// Time Complexity in worst case is : O(N^2);
+// Space Complexity in BestCase and AverageCase is : O(log n)
+
+// Space Complexity In worst Case is : O(n);
